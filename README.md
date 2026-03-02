@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vanshika-Chakole/DSA/tree/master/0009-palindrome-number) |
+| [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vanshika-Chakole/DSA/tree/master/0027-remove-element) |
+| [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vanshika-Chakole/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Bit Manipulation
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vanshika-Chakole/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanshika-Chakole/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 ## String
 |  |
 | ------- |
@@ -58,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Binary Search
+|  |
+| ------- |
+| [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
+## Randomized
+|  |
+| ------- |
+| [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 <!---LeetCode Topics End-->
