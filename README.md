@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vanshika-Chakole/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
