@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vanshika-Chakole/DSA/tree/master/0009-palindrome-number) |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Array
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Vanshika-Chakole/DSA/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vanshika-Chakole/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Matrix
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vanshika-Chakole/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Randomized
 |  |
@@ -115,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vanshika-Chakole/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->
