@@ -22,7 +22,6 @@ public:
         long long total = 0;
         unordered_map<int,int> right;
 
-        // fill total + right map
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 total += grid[i][j];
@@ -30,7 +29,6 @@ public:
             }
         }
 
-        // 🔹 Horizontal cuts
         unordered_map<int,int> left;
         long long sum = 0;
 
@@ -70,7 +68,6 @@ public:
             }
         }
 
-        // 🔹 Vertical cuts
         unordered_map<int,int> down;
         for (auto &row : grid)
             for (auto &x : row)
@@ -114,7 +111,6 @@ public:
                 }
             }
         }
-
         return false;
     }
 };
