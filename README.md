@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Vanshika-Chakole/DSA/tree/master/0009-palindrome-number) |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vanshika-Chakole/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Array
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1980-find-unique-binary-string](https://github.com/Vanshika-Chakole/DSA/tree/master/1980-find-unique-binary-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vanshika-Chakole/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vanshika-Chakole/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vanshika-Chakole/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vanshika-Chakole/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vanshika-Chakole/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vanshika-Chakole/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vanshika-Chakole/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Vanshika-Chakole/DSA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Vanshika-Chakole/DSA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Vanshika-Chakole/DSA/tree/master/3546-equal-sum-grid-partition-i) |
