@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vanshika-Chakole/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vanshika-Chakole/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Counting
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanshika-Chakole/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1980-find-unique-binary-string](https://github.com/Vanshika-Chakole/DSA/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 ## String
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vanshika-Chakole/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/Vanshika-Chakole/DSA/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vanshika-Chakole/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
