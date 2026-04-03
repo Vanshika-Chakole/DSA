@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vanshika-Chakole/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vanshika-Chakole/DSA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Vanshika-Chakole/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Vanshika-Chakole/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Vanshika-Chakole/DSA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Vanshika-Chakole/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Counting
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vanshika-Chakole/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Vanshika-Chakole/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Randomized
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Vanshika-Chakole/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Vanshika-Chakole/DSA/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Vanshika-Chakole/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Backtracking
 |  |
 | ------- |
