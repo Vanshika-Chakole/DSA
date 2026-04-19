@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vanshika-Chakole/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/Vanshika-Chakole/DSA/tree/master/1980-find-unique-binary-string) |
 | [2751-robot-collisions](https://github.com/Vanshika-Chakole/DSA/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vanshika-Chakole/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vanshika-Chakole/DSA/tree/master/0027-remove-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vanshika-Chakole/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Vanshika-Chakole/DSA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vanshika-Chakole/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3488-closest-equal-element-queries](https://github.com/Vanshika-Chakole/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Vanshika-Chakole/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
