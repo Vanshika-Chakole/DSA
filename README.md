@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Vanshika-Chakole/DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Vanshika-Chakole/DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Vanshika-Chakole/DSA/tree/master/0396-rotate-function) |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Vanshika-Chakole/DSA/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/Vanshika-Chakole/DSA/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/Vanshika-Chakole/DSA/tree/master/0396-rotate-function) |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [0874-walking-robot-simulation](https://github.com/Vanshika-Chakole/DSA/tree/master/0874-walking-robot-simulation) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Vanshika-Chakole/DSA/tree/master/0048-rotate-image) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
