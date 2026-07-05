@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Vanshika-Chakole/DSA/tree/master/0396-rotate-function) |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [0874-walking-robot-simulation](https://github.com/Vanshika-Chakole/DSA/tree/master/0874-walking-robot-simulation) |
+| [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Chakole/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vanshika-Chakole/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Vanshika-Chakole/DSA/tree/master/0048-rotate-image) |
+| [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Chakole/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Vanshika-Chakole/DSA/tree/master/0396-rotate-function) |
+| [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Chakole/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vanshika-Chakole/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Vanshika-Chakole/DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Vanshika-Chakole/DSA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
