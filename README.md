@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshika-Chakole/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vanshika-Chakole/DSA/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vanshika-Chakole/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vanshika-Chakole/DSA/tree/master/0938-range-sum-of-bst) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vanshika-Chakole/DSA/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -361,10 +362,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshika-Chakole/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vanshika-Chakole/DSA/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vanshika-Chakole/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vanshika-Chakole/DSA/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshika-Chakole/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vanshika-Chakole/DSA/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Vanshika-Chakole/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0938-range-sum-of-bst](https://github.com/Vanshika-Chakole/DSA/tree/master/0938-range-sum-of-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Vanshika-Chakole/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
