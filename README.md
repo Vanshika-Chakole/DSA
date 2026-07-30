@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vanshika-Chakole/DSA/tree/master/0200-number-of-islands) |
 | [0396-rotate-function](https://github.com/Vanshika-Chakole/DSA/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0695-max-area-of-island](https://github.com/Vanshika-Chakole/DSA/tree/master/0695-max-area-of-island) |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [0874-walking-robot-simulation](https://github.com/Vanshika-Chakole/DSA/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1260-shift-2d-grid) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Vanshika-Chakole/DSA/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Vanshika-Chakole/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Vanshika-Chakole/DSA/tree/master/0695-max-area-of-island) |
 | [1260-shift-2d-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Vanshika-Chakole/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Vanshika-Chakole/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Vanshika-Chakole/DSA/tree/master/0695-max-area-of-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vanshika-Chakole/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vanshika-Chakole/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Vanshika-Chakole/DSA/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Vanshika-Chakole/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Vanshika-Chakole/DSA/tree/master/0695-max-area-of-island) |
 | [0938-range-sum-of-bst](https://github.com/Vanshika-Chakole/DSA/tree/master/0938-range-sum-of-bst) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vanshika-Chakole/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vanshika-Chakole/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vanshika-Chakole/DSA/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Vanshika-Chakole/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Vanshika-Chakole/DSA/tree/master/0695-max-area-of-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/Vanshika-Chakole/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
