@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [1922-count-good-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vanshika-Chakole/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vanshika-Chakole/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Vanshika-Chakole/DSA/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Vanshika-Chakole/DSA/tree/master/0326-power-of-three) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Vanshika-Chakole/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
