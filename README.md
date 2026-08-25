@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Vanshika-Chakole/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Vanshika-Chakole/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Vanshika-Chakole/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Vanshika-Chakole/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vanshika-Chakole/DSA/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/Vanshika-Chakole/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Vanshika-Chakole/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vanshika-Chakole/DSA/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Vanshika-Chakole/DSA/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
