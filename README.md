@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanshika-Chakole/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0022-generate-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Vanshika-Chakole/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Vanshika-Chakole/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vanshika-Chakole/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0022-generate-parentheses) |
 | [0396-rotate-function](https://github.com/Vanshika-Chakole/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Vanshika-Chakole/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vanshika-Chakole/DSA/tree/master/0877-stone-game) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0022-generate-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Vanshika-Chakole/DSA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/Vanshika-Chakole/DSA/tree/master/1980-find-unique-binary-string) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -553,4 +556,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
