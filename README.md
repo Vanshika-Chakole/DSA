@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vanshika-Chakole/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/Vanshika-Chakole/DSA/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/Vanshika-Chakole/DSA/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vanshika-Chakole/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0396-rotate-function](https://github.com/Vanshika-Chakole/DSA/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Vanshika-Chakole/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Vanshika-Chakole/DSA/tree/master/0877-stone-game) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vanshika-Chakole/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2751-robot-collisions](https://github.com/Vanshika-Chakole/DSA/tree/master/2751-robot-collisions) |
 ## Design
@@ -557,4 +560,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
