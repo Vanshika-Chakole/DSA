@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Vanshika-Chakole/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Vanshika-Chakole/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vanshika-Chakole/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vanshika-Chakole/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Vanshika-Chakole/DSA/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Vanshika-Chakole/DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vanshika-Chakole/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vanshika-Chakole/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Vanshika-Chakole/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2751-robot-collisions](https://github.com/Vanshika-Chakole/DSA/tree/master/2751-robot-collisions) |
 ## Design
@@ -573,4 +575,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Vanshika-Chakole/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vanshika-Chakole/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Vanshika-Chakole/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
