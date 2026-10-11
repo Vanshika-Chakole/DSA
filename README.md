@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vanshika-Chakole/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vanshika-Chakole/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vanshika-Chakole/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vanshika-Chakole/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Vanshika-Chakole/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2615-sum-of-distances](https://github.com/Vanshika-Chakole/DSA/tree/master/2615-sum-of-distances) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Vanshika-Chakole/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshika-Chakole/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vanshika-Chakole/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2751-robot-collisions](https://github.com/Vanshika-Chakole/DSA/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Vanshika-Chakole/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Vanshika-Chakole/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2029-stone-game-ix](https://github.com/Vanshika-Chakole/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vanshika-Chakole/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vanshika-Chakole/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vanshika-Chakole/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0710-random-pick-with-blacklist](https://github.com/Vanshika-Chakole/DSA/tree/master/0710-random-pick-with-blacklist) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Vanshika-Chakole/DSA/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vanshika-Chakole/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Vanshika-Chakole/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vanshika-Chakole/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Vanshika-Chakole/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Vanshika-Chakole/DSA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3620-network-recovery-pathways](https://github.com/Vanshika-Chakole/DSA/tree/master/3620-network-recovery-pathways) |
