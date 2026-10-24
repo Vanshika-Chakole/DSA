@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vanshika-Chakole/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Vanshika-Chakole/DSA/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Vanshika-Chakole/DSA/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2409-count-days-spent-together](https://github.com/Vanshika-Chakole/DSA/tree/master/2409-count-days-spent-together) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Vanshika-Chakole/DSA/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Vanshika-Chakole/DSA/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Vanshika-Chakole/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/Vanshika-Chakole/DSA/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Vanshika-Chakole/DSA/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Vanshika-Chakole/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Vanshika-Chakole/DSA/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Vanshika-Chakole/DSA/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Vanshika-Chakole/DSA/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Vanshika-Chakole/DSA/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
