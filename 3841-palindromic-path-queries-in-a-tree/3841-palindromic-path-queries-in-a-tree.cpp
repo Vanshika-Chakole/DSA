@@ -1,6 +1,3 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
     struct Fenwick {
         int n;
@@ -47,7 +44,6 @@ public:
             return 1 << (c - 'a');
         };
 
-        // Iterative DFS: Euler tour and binary lifting
         vector<tuple<int, int, bool>> st;
         st.push_back({0, -1, false});
 
@@ -138,7 +134,6 @@ public:
                              ^ getPrefix(v)
                              ^ mask(s[lca]);
 
-                // At most one character may have odd frequency
                 answer.push_back(
                     (pathMask & (pathMask - 1)) == 0
                 );
